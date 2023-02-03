@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-snapshot-testing",
+      "kind" : "remoteSourceControl",
+      "location" : "http://github.com/tdrhq/swift-snapshot-testing",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c15b659d6d4ad2490486fe47bab910c4f394cc2e"
+      }
+    }
+  ],
+  "version" : 2
+}
