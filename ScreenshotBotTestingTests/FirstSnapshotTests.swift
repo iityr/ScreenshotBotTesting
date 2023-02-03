@@ -19,7 +19,7 @@ final class FirstSnapshotTests: XCTestCase {
         // Any test you write for XCTest can be annotated as throws and async.
         // Mark your test throws to produce an unexpected failure when your test encounters an uncaught error.
         // Mark your test async to allow awaiting for asynchronous code to complete. Check the results with assertions afterwards.
-    } 
+    }
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
@@ -27,10 +27,10 @@ final class FirstSnapshotTests: XCTestCase {
             // Put the code you want to measure the time of here.
         }
     }
-	
+	 
 	override func setUp() {
 		isFailOnNewRecording = false
-	}
+	} 
 	
 	override func tearDown() {
 		// Not required, but good cleanup habbit
