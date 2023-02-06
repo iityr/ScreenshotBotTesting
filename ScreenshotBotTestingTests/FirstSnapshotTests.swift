@@ -30,7 +30,7 @@ final class FirstSnapshotTests: XCTestCase {
 	 
 	override func setUp() {
 		isFailOnNewRecording = false
-	} 
+	}
 	
 	override func tearDown() {
 		// Not required, but good cleanup habbit
