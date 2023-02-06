@@ -25,12 +25,12 @@ final class FirstSnapshotTests: XCTestCase {
         // This is an example of a performance test case.
         measure {
             // Put the code you want to measure the time of here.
-        }
+        } 
     }
 	 
 	override func setUp() {
 		isFailOnNewRecording = false
-	} 
+	}
 	
 	override func tearDown() {
 		// Not required, but good cleanup habbit
